@@ -8,7 +8,7 @@ Python 3
 
 ---
 
-## 📘 Ejercicio 1 – Algoritmos
+## Ejercicio 1 – Algoritmos
 
 Colección trabajada: `[1, 10, 6, 8, 15, 2]`
 
@@ -17,8 +17,11 @@ Colección trabajada: `[1, 10, 6, 8, 15, 2]`
 - Encontrar números pares y sus posiciones
 - Crear arreglo con los pares
 
-Ejecutar:
+## Ejercicio 2 - Modelado
 
-```bash
-cd ejercicio1_algoritmos
-python main.py
+- Calcular la cantidad de libros que tiene un estante en un momento determinado.
+- Calcular el porcentaje de llenado de un estante de acuerdo a su capacidad máxima.
+- Calcular el valor total de los libros de un estante.
+- Obtener el libro más caro de un estante .
+- Obtener el listado de libros de un estante ordenados alfabéticamente.
+- Obtener los libros de un género “X” que están en un estante
